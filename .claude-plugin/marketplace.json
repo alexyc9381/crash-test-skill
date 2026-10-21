@@ -1,0 +1,7 @@
+{
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
+  "name": "crash-test-skill",
+  "description": "The crash test skill for Claude Code",
+  "owner": {"name": "Alex Chen"},
+  "plugins": [{"name": "crash-test-skill", "description": "Seven Claudes crash test your business idea, then a lead engineer gives you the fix plan.", "source": "./", "category": "productivity", "author": {"name": "Alex Chen", "url": "https://chen.media"}, "homepage": "https://chen.media/guides/crash-test-your-business-idea-with-7-claudes-free-crash-test-skill"}]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "crash-test-skill",
+  "description": "Seven Claude crash dummies hit your business idea with a different disaster each (recession, copycat, lawsuit, bad reviews, price war, no customers, a broken link), then a lead engineer ranks the cracks and writes the fix plan that makes it bulletproof.",
+  "version": "1.0.0",
+  "author": {"name": "Alex Chen", "url": "https://chen.media"},
+  "homepage": "https://chen.media/guides/crash-test-your-business-idea-with-7-claudes-free-crash-test-skill",
+  "repository": "https://github.com/alexyc9381/crash-test-skill",
+  "license": "MIT",
+  "keywords": ["claude-code", "claude-skills", "business-idea", "startup", "side-hustle", "risk"]
+}

@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you show this in a video, post, article or paper, please credit it as below and tag @nocodealex."
+type: software
+title: "crash-test-skill: seven Claudes crash test your business idea, then a lead engineer makes it bulletproof"
+abstract: "A free Claude Code skill: seven crash dummies each hit a business idea alone with a different disaster and report the crack they found, then a lead engineer ranks the cracks, writes a fix plan and re-runs the crash."
+authors:
+  - given-names: Alex
+    family-names: Chen
+    alias: nocodealex
+    website: "https://chen.media"
+repository-code: "https://github.com/alexyc9381/crash-test-skill"
+license: MIT
+version: "1.0.0"
+date-released: "2026-10-20"
+keywords:
+  - claude-code
+  - claude-skills
+  - business-idea
+  - startup
